@@ -20,7 +20,7 @@ const SideBar = () => {
         segment !== "(auth)" ? "block" : "hidden"
       } text-white z-30 bg-[#5A698F] dark:bg-[#161D2F] my-0 left-0 right-0 lg:bottom-0 lg:my-auto lg:right-auto mx-auto justify-between items-center flex lg:flex-col lg:h-[93vh] w-full sm:h-[72px] h-[56px] lg:w-[96px] fixed lg:left-7 lg:top-0 sm:top-5 sm:w-[95.5%]  lg:rounded-2xl py-5 px-5 sm:px-7 lg:py-10 sm:rounded-xl`}
     >
-      <Link href="/" aria-label="Flixify Logo">
+      <Link href="/" aria-label="Streamly Logo">
         <div className="w-[25px] h-[25px] cursor-pointer lg:w-[32px] lg:h-[32px]">
           <svg
             className="fill-current text-[#650101] dark:text-[#FC4747]"
