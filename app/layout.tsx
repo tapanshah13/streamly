@@ -37,7 +37,7 @@ export const metadata: Metadata = {
     title: "Streamly — Entertainment Web App",
     description:
       "Explore a vast collection of movies and TV series, bookmark your favorites, and enjoy seamless navigation across genres.",
-    creator: "victorwill__",
+    creator: "tapanshah13",
     creatorId: "1243720976552144897",
     images: [
       "https://github.com/victorcodess/flixify/assets/84178696/e7b1ffb1-498e-421e-a1b0-48092068ef0c",
