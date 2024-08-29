@@ -23,7 +23,7 @@ export const metadata: Metadata = {
       "Explore a vast collection of movies and TV series, bookmark your favorites, and enjoy seamless navigation across genres.",
     images: [
       {
-        url: "https://github.com/victorcodess/flixify/assets/84178696/e7b1ffb1-498e-421e-a1b0-48092068ef0c",
+        url: "https://raw.githubusercontent.com/tapanshah13/streamly/main/public/assets/screenshot.png",
         width: 1200,
         height: 630,
         alt: "Streamly — Entertainment Web App",
@@ -40,7 +40,7 @@ export const metadata: Metadata = {
     creator: "tapanshah13",
     creatorId: "1243720976552144897",
     images: [
-      "https://github.com/victorcodess/flixify/assets/84178696/e7b1ffb1-498e-421e-a1b0-48092068ef0c",
+      "https://raw.githubusercontent.com/tapanshah13/streamly/main/public/assets/screenshot.png",
     ],
   },
   robots: {

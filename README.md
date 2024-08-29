@@ -30,7 +30,6 @@ Users should be able to:
 
 ### Screenshot
 
-![](https://github.com/victorcodess/flixify/assets/84178696/e988a0e7-cd95-4f9f-a45f-a9293c850133)
 ![Screenshot](https://raw.githubusercontent.com/tapanshah13/streamly/main/public/assets/screenshot.png)
 
 ### Built with
